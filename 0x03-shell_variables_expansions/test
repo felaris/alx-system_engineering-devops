@@ -1,6 +1,0 @@
-#!/bin/bash
-alias g="git add . & git commit -m 'another commit' & git push"
-alias c="chmod u+x"
-alias t="touch"
-alias e="emacs"
-echo "Done"
